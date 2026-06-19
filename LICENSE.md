@@ -1,6 +1,6 @@
 # License
 
-**Calor en el olvido**
+**Calor en el olvido, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

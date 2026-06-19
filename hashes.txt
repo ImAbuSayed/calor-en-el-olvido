@@ -1,10 +1,10 @@
-# Cryptographic Proof of Authorship Log - Calor en el olvido
+# Cryptographic Proof of Authorship Log - Calor en el olvido, Vol. 2
 
-This log tracks the cryptographic history and versioning for the song **Calor en el olvido** (calor-en-el-olvido).
+This log tracks the cryptographic history and versioning for the song **Calor en el olvido, Vol. 2** (calor-en-el-olvido-vol-2).
 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
-| 2026-06-19T21:47:48.604905 | `v1` | `a7956ac418f09c7c55e85eb2b14da4e9708c025ea7f6422a93e899208739eea7` | `c97845fc305205fd7ea8f205ad8006696723917514269f5210d214873bfb4644` | `2026-06-19_calor-en-el-olvido-v1.txt` |
+| 2026-06-19T21:50:29.197468 | `v1` | `a7956ac418f09c7c55e85eb2b14da4e9708c025ea7f6422a93e899208739eea7` | `c97845fc305205fd7ea8f205ad8006696723917514269f5210d214873bfb4644` | `2026-06-19_calor-en-el-olvido-vol-2-v1.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

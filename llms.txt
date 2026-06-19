@@ -1,4 +1,4 @@
-# Calor en el olvido
+# Calor en el olvido, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Calor en el olvido |
+| **Title** | Calor en el olvido, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-el-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Calor en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-el-olvido/) |
+| **Get License** | [Music Rights & Licensing for Calor en el olvido, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-el-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
