@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-el-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Calor en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-el-olvido/) |
+| **Get License** | [Get a Licensing Quote for Calor en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-el-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a7956ac418f09c7c55e85eb2b14da4e9708c025ea7f6422a93e899208739eea7` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
